@@ -6,11 +6,16 @@
     <description>建通新聞電子版の広島地域ニュース</description>
     <language>ja</language>
     <item>
-      <title>西高速　ＮＥＣと随契　中国支社管内伝送交換設備改造</title>
-      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M6JTXR2C68PBA65A6QQHS20D</link>
-      <description>　西日本高速道路会社中国支社は、「令和８年度中国支社管内伝送交換設備改造工事」をＮＥＣと３億５１００万円で随意契約した。
-　場所は岡山県美作市～山口県下関市他。</description>
-      <guid isPermaLink="false">01M6JTXR2C68PBA65A6QQHS20D</guid>
+      <title>三次河川国道　江の川十日市地区環境整備を公告</title>
+      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M6JQH4XFT8VCN6K5M3R3GKG3</link>
+      <description>　国土交通省三次河川国道事務所は11月５日、「令和８年度江の川上流十日市地区環境整備工事」の一般競争入札（総合評価落札方式・チャレンジⅡ型）を公告する。</description>
+      <guid isPermaLink="false">01M6JQH4XFT8VCN6K5M3R3GKG3</guid>
+    </item>
+    <item>
+      <title>広島県　宇品旅客ターミナル外壁改修その他工事２工区（その２）公告</title>
+      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M6CZRN5T73P74YAMPKQFBKMP</link>
+      <description>　広島県土木建築局は11月５日、「広島港宇品旅客ターミナル外壁改修その他工事（２工区）（その２）」の一般競争入札（総合評価落札方式・実績評価型）を公告する。</description>
+      <guid isPermaLink="false">01M6CZRN5T73P74YAMPKQFBKMP</guid>
     </item>
     <item>
       <title>西高速　日立製作所と随契　中国支社施設中央局設備改造</title>
@@ -18,6 +23,13 @@
       <description>　西日本高速道路会社中国支社は、「令和８年度中国支社施設中央局設備改造工事」を日立製作所と３億４６００万円で随意契約した。
 　場所は岡山県美作市～山口県下関市他。</description>
       <guid isPermaLink="false">01M6JTZMNB1QGXNDF0SKY3HGZF</guid>
+    </item>
+    <item>
+      <title>西高速　ＮＥＣと随契　中国支社管内伝送交換設備改造</title>
+      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M6JTXR2C68PBA65A6QQHS20D</link>
+      <description>　西日本高速道路会社中国支社は、「令和８年度中国支社管内伝送交換設備改造工事」をＮＥＣと３億５１００万円で随意契約した。
+　場所は岡山県美作市～山口県下関市他。</description>
+      <guid isPermaLink="false">01M6JTXR2C68PBA65A6QQHS20D</guid>
     </item>
     <item>
       <title>税理士法人Ｃｏｌｏｒｓ　福山事務所を新築</title>
@@ -177,18 +189,6 @@
       <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M5VHKF0BF5H837RJ7SEN3PMA</link>
       <description>　２０２６年秋の褒章の受章者が発表された。11月３日付で発令される。国土交通省関係では90人・７団体が受章。</description>
       <guid isPermaLink="false">01M5VHKF0BF5H837RJ7SEN3PMA</guid>
-    </item>
-    <item>
-      <title>中国地整　明日から　カーナビ画面に注意喚起情報を配信　大雨・大雪など</title>
-      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M65SXMS25TBT4J63745NZ1AG</link>
-      <description>　国土交通省中国地方整備局は、大雨時の冠水事故防止でカーナビ画面にポップアップ表示による注意喚起を11月１日に開始する。また、大雪警報などの情報の配信も実施していく。</description>
-      <guid isPermaLink="false">01M65SXMS25TBT4J63745NZ1AG</guid>
-    </item>
-    <item>
-      <title>共和ハーモテック　省力化に貢献する「砕石かご」など紹介</title>
-      <link>https://digital.kentsu.co.jp/articles/artcl_rglr/01M65AZXTRS861RC6YZXNRFR3R</link>
-      <description>　共和ハーモテック（本社・大阪市淀川区）は、手積み作業不要で、省力化を実現する「砕石かご」と、落ち着いた雰囲気の修景壁や塀を構築する「ディアウォール」をひろしま建設イノベーション２０２６に出展した。</description>
-      <guid isPermaLink="false">01M65AZXTRS861RC6YZXNRFR3R</guid>
     </item>
   </channel>
 </rss>
